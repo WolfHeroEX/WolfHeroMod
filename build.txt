@@ -1,3 +1,4 @@
 displayName = WolfHero's Mod
 author = WolfHero
 version = 0.0.1
+homepage = https://github.com/WolfHeroEX/WolfHeroMod
