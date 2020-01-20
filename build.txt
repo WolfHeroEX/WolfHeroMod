@@ -1,0 +1,3 @@
+displayName = WolfHero's Mod
+author = WolfHero
+version = 0.0.1
