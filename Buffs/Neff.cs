@@ -20,10 +20,10 @@ namespace WolfHeroMod.Buffs
 			// We use blockyAccessoryPrevious here instead of blockyAccessory because UpdateBuffs happens before UpdateEquips but after ResetEffects.
 			if (p.NeffAccessoryPrevious) {
 				p.NeffPower = true;
-				player.jumpSpeedBoost += 1.5f;
-				player.maxRunSpeed += 0.15f;
+				player.jumpSpeedBoost += 1.25f;
+				player.maxRunSpeed += 0.10f;
 				player.statDefense += 2;
-				player.moveSpeed += 0.10f;
+				player.moveSpeed += 0.05f;
 			}
 			else {
 				player.DelBuff(buffIndex);

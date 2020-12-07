@@ -9,4 +9,4 @@ Fix up recipe balancing based on tiers.
 Fix up item balancing based on tiers.
 Add more items, including more tiers of existing mod items.
 
-Throw me some suggestions for new features and solutions to the bugs at the github!~ I'm very new to this, so please don't suggest anything extravagant without an explination on how to accomplish it. Thanks!
+Throw me some suggestions for new features and solutions to the bugs at the github!~ I'm very new to this, so please don't suggest anything extravagant without an explanation on how to accomplish it. Thanks!

@@ -24,7 +24,7 @@ namespace WolfHeroMod.Items.Armor
 	{
 		public override void SetStaticDefaults() {
 			DisplayName.SetDefault("Stone Bracelet");
-			Tooltip.SetDefault("Take on the appearance of Neff!\n50% increased jump height\n15% increased maximum speed\n10% increased movement speed\n Defense increased by 2");
+			Tooltip.SetDefault("Take on the appearance of Neff!\n25% increased jump height\n10% increased maximum speed\n5% increased movement speed\n Defense increased by 2");
 		}
 
 		public override void SetDefaults() {

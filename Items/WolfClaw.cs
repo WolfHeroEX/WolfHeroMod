@@ -18,14 +18,14 @@ namespace WolfHeroMod.Items
 			item.melee = true;
 			item.width = 26;
 			item.height = 22;
-			item.useTime = 19;
-			item.useAnimation = 19;
+			item.useTime = 23;
+			item.useAnimation = 23;
 			item.pick = 55;
 			item.axe = 11;          //How much axe power the weapon has, note that the axe power displayed in-game is this value multiplied by 5
 			item.useStyle = 1;
 			item.knockBack = 1;
-			item.value = 1;
-			item.rare = 1;
+			item.value = 10000;
+			item.rare = 0;
 			item.UseSound = SoundID.Item1;
 			item.autoReuse = true;
 		}

@@ -15,17 +15,17 @@ namespace WolfHeroMod.Items
 		}
 
 		public override void SetDefaults() {
-			item.damage = 35;
+			item.damage = 30;
 			item.melee = true;
 			item.width = 26;
 			item.height = 22;
-			item.useTime = 14;
-			item.useAnimation = 14;
+			item.useTime = 23;
+			item.useAnimation = 23;
 			item.pick = 100;
-			item.axe = 15;          //How much axe power the weapon has, note that the axe power displayed in-game is this value multiplied by 5
+			item.axe = 30;          //How much axe power the weapon has, note that the axe power displayed in-game is this value multiplied by 5
 			item.useStyle = 1;
 			item.knockBack = 1;
-			item.value = 1;
+			item.value = 27000;
 			item.rare = 3;
 			item.UseSound = SoundID.Item1;
 			item.autoReuse = true;
